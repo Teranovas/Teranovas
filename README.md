@@ -3,6 +3,10 @@
 <h1 align="left">Hello!👋👋 I am Changse Lee, a curious aspiring developer.</h1>
 <h3 align="left">I will work responsibly in everything we do.</h3>
 
+- 👨‍💻 All of my projects are available at [https://www.notion.so/d8d4fc44a13a4d368268e07d2efe4341](https://www.notion.so/d8d4fc44a13a4d368268e07d2efe4341)
+
+- 📫 How to reach me **goteb123@hs.ac.kr**
+
 <h3 align="left">📞 Connection</h3>
 <p align="left">
 <a href="https://instagram.com/change_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="change_99" height="30" width="40" /></a>
