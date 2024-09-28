@@ -3,7 +3,7 @@
 <h1 align="center">Hello!👋👋 I am Changse Lee, a curious aspiring developer.</h1>
 <h3 align="center">I will work responsibly in everything we do.</h3>
 
-<p align="center">- 👨‍💻 My project description is [https://www.notion.so/d8d4fc44a13a4d368268e07d2efe4341]</p>
+<p align="center">- 👨‍💻 My project description is [https://diligent-mint-110.notion.site]</p>
 
 <p align="center">
   - 📫 How to reach me <a href="mailto:goteb123@hs.ac.kr">goteb123@hs.ac.kr</a>
